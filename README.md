@@ -34,6 +34,7 @@ Passionate about delivering high-quality apps, collaborating with clients, and o
   <img src="https://img.shields.io/badge/NativeBase-8E2DE2?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
 ### ✅ Testing  
