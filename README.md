@@ -1,7 +1,6 @@
 # Hi there, I'm Kamlesh Manek 👋  
 
-🚀 **Senior React Native Developer** with **10+ years** of experience building scalable cross-platform mobile applications for iOS and Android.  
-Passionate about delivering high-quality apps, collaborating with clients, and optimizing performance.  
+🚀 **Senior React Native Developer** with **10+ years** of experience building scalable cross-platform mobile applications for iOS and Android. Passionate about delivering high-quality apps, collaborating with clients, and optimizing performance.  
 
 ---
 
