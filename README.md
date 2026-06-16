@@ -61,14 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![Kamlesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamleshmanek&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshmanek&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=kamleshmanek&theme=radical&border_radius=5)  
-
----
-
 ## 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kamleshmanek/)  
